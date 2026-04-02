@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, GitHub!
+
+## Hi.
 
 <!--
 **saccharic/saccharic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
