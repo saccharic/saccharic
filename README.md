@@ -1,6 +1,6 @@
 ## Hello, GitHub!
 
-## Hi.
+## SeoulTech Computer Science and Engineering
 
 <!--
 **saccharic/saccharic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
