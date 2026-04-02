@@ -1,8 +1,6 @@
-## Hello, GitHub!
-
-## SeoulTech Computer Science and Engineering
-
-## 日本語の勉強は難しいです。
+## Saccharic
+# Seoul National University of Science and Technology
+# Department of Computer Science and Engineering
 
 <!--
 **saccharic/saccharic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
