@@ -1,6 +1,5 @@
-# Saccharic
-Seoul National University of Science and Technology
-Department of Computer Science and Engineering
+### Junwoo Park
+B.S. in Computer Science and Engineering, Seoul National University of Science and Technology(SeoulTech)
 
 <!--
 **saccharic/saccharic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
